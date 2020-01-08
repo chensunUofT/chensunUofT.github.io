@@ -19,7 +19,7 @@ Jekyll？加入呗，还能离了咋的。
 
 在GitHub建个.github.io的同名repo都能怒踩两坑。
 * 不要建private repo，除非你 ~~想看庆余年~~ ~~是人民币玩家~~ 是GitHub Pro用户。
-* Repo的setting一滚到底，挑个theme。
+* Repo的setting一滚到底，挑个theme。  
 <https://github.community/t5/GitHub-Pages/Github-Pages-are-not-published-after-following-the-documentation/td-p/18627>
 
 ## 来人，上~~小刚~~Jekyll。
